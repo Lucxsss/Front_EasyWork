@@ -1,11 +1,16 @@
+<<<<<<< HEAD
 .fs-16{
   font-size: 17pt;
+=======
+.fs-16 {
+    font-size: 16pt;
+>>>>>>> 123a4a290b1bc86c4c8ebc07d475ffc53fb2247b
 }
 
 a{
  cursor: pointer;
-
 }
+<<<<<<< HEAD
 li {
   list-style: none;
 }
@@ -18,3 +23,9 @@ li {
 .img-fluid {
   color: white;
 }
+=======
+
+.navbar{
+  background-color: #ecc3dc10;
+}
+>>>>>>> 123a4a290b1bc86c4c8ebc07d475ffc53fb2247b
